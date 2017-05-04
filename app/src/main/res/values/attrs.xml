@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BrokenLineTrendView">
+        <attr name="trend_view_color_dotted_line" format="color"/>
+        <attr name="trend_view_color_text" format="color"/>
+        <attr name="trend_view_text_size" format="dimension"/>
+    </declare-styleable>
+</resources>
